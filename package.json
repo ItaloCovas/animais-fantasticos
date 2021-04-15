@@ -1,13 +1,10 @@
 {
-  "name": "eslint-animais-fetch",
+  "name": "animais-fantasticos",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.html",
   "scripts": {
     "build": "webpack --mode production ./js/script.js -o ./main.js",
     "dev": "webpack --mode development ./js/script.js -o ./main.js --watch"
   },
-  "author": "",
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.13.14",
